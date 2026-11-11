@@ -12,3 +12,4 @@ elif user == "paper" and computer == "stone":
     print("Ви перемогли")
 else:
     print("Комп'ютер переміг")
+    
